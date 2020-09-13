@@ -1,0 +1,3 @@
+# Genel Kamu Lisansý (GNU GPL)
+# Projenin sahiplik verilerini deðiþtirmediðiniz sürece;
+# Her istediðiniz yapabilirsiniz
